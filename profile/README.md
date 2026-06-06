@@ -47,8 +47,8 @@ Recovering discontinued TTS voices and wiring them into things that talk.
 ## 📊 The numbers
 
 <p align="center">
-  <img src="./stats.svg" alt="Stats" />
-  <img src="./streak.svg" alt="Streak Stats" />
+  <img src="./profile/stats.svg" alt="Stats" />
+  <img src="./profile/streak.svg" alt="Streak Stats" />
 </p>
 
 ---
