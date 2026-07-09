@@ -25,4 +25,9 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME:-main}"
+            git push && break
+            [ "$attempt" -eq 3 ] && exit 1
+            sleep 5
+          done
