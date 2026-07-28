@@ -2,7 +2,7 @@
 
 I make things on the Internet for fun, and break stuff sometimes. It's super entertaining! Most of what I build lives in the overlap between **emergency alerting**, **speech synthesis**, and **dragging old tech back from the dead before it disappears for good**.
 
-If you came for puzzles instead, I host those (and training for them) over at [wagspuzzle.space](https://wagspuzzle.space/).
+If you came for (old) puzzles instead, I host those (and training for them) over at [wagspuzzle.space](https://wagspuzzle.space/).
 
 ---
 
@@ -13,26 +13,22 @@ The bulk of my public work: encoding, decoding, and understanding EAS / SAME and
 - **[EAS-Tools](https://github.com/wagwan-piffting-blud/EAS-Tools)** -- a fully browser-based ENDEC. Encode and decode SAME right in the page, no install. My most-used project.
 - **[EAS_Listener](https://github.com/wagwan-piffting-blud/EAS_Listener)** -- a Rust-native software ENDEC with CAP support.
 - **[E2T-NG](https://github.com/wagwan-piffting-blud/E2T-NG)** -- EAS2Text, Next Generation. Turns a raw SAME header into plain English, using multiple programming languages.
-- **[EMNet_Mocker](https://github.com/wagwan-piffting-blud/EMNet_Mocker)** -- mock EAS alerts built from EMNet voice files.
+- **[EMNet_Mocker](https://github.com/wagwan-piffting-blud/EMNet_Mocker)** -- mock EAS alerts built from ComLabs EMNet voice files.
 
 ## 🗣️ Speech Synthesis + Voice Preservation
 
 Recovering discontinued TTS voices and wiring them into things that talk.
 
-- **[Speechify_EAS_Listener](https://github.com/wagwan-piffting-blud/Speechify_EAS_Listener)** -- a Speechify TTS backend for EAS_Listener's CAP pipeline, written in C.
+- **[Speechify_EAS_Listener](https://github.com/wagwan-piffting-blud/Speechify)** -- The original 2003 Speechify 3 engine, also rewritten (with 100% accuracy to the original engine!) in C.
 - **[AcuVoice-Roger](https://github.com/wagwan-piffting-blud/AcuVoice-Roger)** -- the desktop "Roger" voice, rescued and repackaged for SAPI5 (see also the archived [Fonix-Roger](https://github.com/wagwan-piffting-blud/Fonix-Roger) for the lineage).
 - **[FestvoxKalMonotone](https://github.com/wagwan-piffting-blud/FestvoxKalMonotone)** -- mild poking at the Festival Speech Synthesis System.
+- **[ENDEC_Dave](https://github.com/wagwan-piffting-blud/ENDEC_Dave)** -- The ubiquitous Loquendo Dave voice, liberated from a real DIGITAL ENDEC. Working again on Windows via SAPI.
 
 ## 🎮 Game Preservation
 
-- **The Beat Revival** -- keeping *Mirror's Edge: Catalyst* (2016) alive. More at [beatrevival.me](https://www.beatrevival.me/).
+- **The Beat Revival** -- keeping *Mirror's Edge: Catalyst* (2016) UGC alive. More at [beatrevival.me](https://www.beatrevival.me/).
 
-## 🧩 Puzzles, ARGs + the Rest
-
-- The Mr. Robot ARGs (all of season 3, some of 4).
-- **[project-skydrop](https://github.com/wagwan-piffting-blud/project-skydrop)** -- code snippets from the Project Skydrop treasure hunt.
-
-...always with more to come.
+...and always with more to come.
 
 ---
 
@@ -40,7 +36,7 @@ Recovering discontinued TTS voices and wiring them into things that talk.
 
 `Rust` · `Python` · `C` · `C++` · `JavaScript/HTML/CSS`
 
-...and whatever a given project drags me into (Scheme, C#, Kotlin, plain bash, you name it).
+...and whatever a given project drags me into (Scheme, C#, Kotlin/Swift, plain bash, you name it).
 
 ---
 
@@ -56,7 +52,6 @@ Recovering discontinued TTS voices and wiring them into things that talk.
 ## 📫 Find me
 
 - Site + contact form: **[wagspuzzle.space](https://wagspuzzle.space/)**
-- Bluesky: [@wagspuzzle.space](https://bsky.app/profile/wagspuzzle.space)
 - Keybase: [wags2piffting](https://keybase.io/wags2piffting/)
 - Plain email: `contact` ['ae t] `wagspuzzle` [d aa t] `space`
 
