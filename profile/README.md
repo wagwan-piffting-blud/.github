@@ -19,7 +19,7 @@ The bulk of my public work: encoding, decoding, and understanding EAS / SAME and
 
 Recovering discontinued TTS voices and wiring them into things that talk.
 
-- **[Speechify_EAS_Listener](https://github.com/wagwan-piffting-blud/Speechify)** -- The original 2003 Speechify 3 engine, also rewritten (with 100% accuracy to the original engine!) in C.
+- **[Speechify](https://github.com/wagwan-piffting-blud/Speechify)** -- The original 2003 Speechify 3 engine, also rewritten (with 100% accuracy to the original engine!) in C.
 - **[AcuVoice-Roger](https://github.com/wagwan-piffting-blud/AcuVoice-Roger)** -- the desktop "Roger" voice, rescued and repackaged for SAPI5 (see also the archived [Fonix-Roger](https://github.com/wagwan-piffting-blud/Fonix-Roger) for the lineage).
 - **[FestvoxKalMonotone](https://github.com/wagwan-piffting-blud/FestvoxKalMonotone)** -- mild poking at the Festival Speech Synthesis System.
 - **[ENDEC_Dave](https://github.com/wagwan-piffting-blud/ENDEC_Dave)** -- The ubiquitous Loquendo Dave voice, liberated from a real DIGITAL ENDEC. Working again on Windows via SAPI.
